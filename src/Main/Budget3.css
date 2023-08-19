@@ -1,0 +1,107 @@
+.innercontent2 .row .col .column1budget1 .h4{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    height: 28px;
+    font-size: 35px;
+    font-weight: 700;
+    width: auto;
+    color: #1D3557;
+    margin-right: 40px;
+    
+}
+.innercontent2 .row .col .column1budget1,.innercontent2 .row .col .column1budget2,.innercontent2 .row .col .column1budget3{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.innercontent2 .row .col .column1budget1 .Square{
+    /* display: block; */
+    position:relative;
+    /* top: -3.5rem; */
+    margin-top: -1rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    float: left;
+    margin-left:5rem;
+    /* margin-left: 15.6rem; */
+    background-color: #E0F0E4;
+    color: #377E36;
+    width: 43px;
+    height: 20px;
+    justify-content: center;
+}
+.innercontent2 .row .col .column1budget2 .circle{
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 10px;
+    width: 10px;
+    background-color:  rgba(151, 71, 255, 1);
+    border-radius: 12px;
+}
+.innercontent2 .row .col .column1budget2 .Square{
+    /* display: block; */
+    position:relative;
+    /* top: -3.5rem; */
+    margin-top: -2rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    float: left;
+    margin-left:4rem;
+    /* margin-left: 15.6rem; */
+    background-color: #E0F0E4;
+    color: #377E36;
+    width: 43px;
+    height: 20px;
+    justify-content: center;
+}
+.innercontent2 .row .col .column1budget3 .circle{
+    position: relative;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 10px;
+    width: 10px;
+    background-color:  rgba(246, 207, 125, 1);
+    border-radius: 12px;
+}
+.innercontent2 .row .col .column1budget3 .Square{
+    /* display: block; */
+    position:relative;
+    /* top: -3.5rem; */
+    margin-top: -2rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    float: left;
+    margin-left:4rem;
+    /* margin-left: 15.6rem; */
+    background-color: #FEECEB;
+    color: #B12F30;
+    width: 43px;
+    height: 20px;
+    justify-content: center;
+}
+.innercontent2 .row .col .column1budget2 .h6{
+    position: relative;
+    margin-top: -14px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    padding-left: 30px;
+    
+}
+.innercontent2 .row .col .column1budget3 .h6{
+    position: relative;
+    margin-top: -14px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 4px;
+    padding-left: 30px;
+}
+.innercontent2 .row .col .column1budget2 .h4,.innercontent2 .row .col .column1budget3 .h4{
+    /* margin-top: 1px; */
+    font-size: 24px;
+    font-weight: 700;
+    width: auto;
+}

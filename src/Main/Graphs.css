@@ -1,0 +1,10 @@
+.container .row .column1graph,.container .row .column2graph{
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.container .row .column1graph .h6,.container .row .column2graph .h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(29, 53, 87, 1);
+
+}

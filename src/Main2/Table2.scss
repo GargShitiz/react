@@ -1,0 +1,21 @@
+.table {
+
+    background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+        linear-gradient(0deg, rgba(185, 216, 249, 0.45), rgba(185, 216, 249, 0.45));
+    border-bottom: 1px solid #E6EDFF;
+
+    .head3 .tr1 .th1 {
+        background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+            linear-gradient(0deg, rgba(185, 216, 249, 0.45), rgba(185, 216, 249, 0.45));
+    }
+
+    tbody tr:nth-child(odd)td {
+        background-color: #E6EDFF;
+    }
+
+    tbody tr:nth-child(even)td {
+        background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+            linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+    }
+}

@@ -1,0 +1,44 @@
+.innercontents .row .col .column1budget1 .h4{
+    margin-top: 40px;
+    margin-bottom: 0px;
+    height: 28px;
+    font-size: 24px;
+    font-weight: 700;
+    width: auto;
+    color: #1D3557;
+    margin-right: 40px;
+}
+.innercontents .row .col .column1budget1,.innercontents .row .col .column1budget2,.innercontents .row .col .column1budget3{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.innercontents .row .col .column1budget1 .Square{
+    display: block;
+    position:relative;
+    /* top: -3.5rem; */
+    margin-top: -1.5rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 12px;
+    float: right;
+    margin-left:-2rem;
+    /* margin-left: 15.6rem; */
+    background-color: #E0F0E4;
+    color: #377E36;
+    width: 43px;
+    height: 20px;
+    justify-content: center;
+}
+.innercontents .row .col .column1budget2 .h6,.innercontents .row .col .column1budget3 .h6{
+    margin-top: 19px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    
+}
+.innercontents .row .col .column1budget2 .h4,.innercontents .row .col .column1budget3 .h4{
+    /* margin-top: 1px; */
+    font-size: 24px;
+    font-weight: 700;
+    width: auto;
+}

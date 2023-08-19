@@ -1,0 +1,6 @@
+.table .head{
+    background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+    linear-gradient(0deg, rgba(185, 216, 249, 0.45), rgba(185, 216, 249, 0.45));
+    border-bottom: 1px solid #E6EDFF;
+        
+}

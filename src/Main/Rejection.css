@@ -1,0 +1,10 @@
+.contain .row .column1rejection,.contain .row .column2rejection{
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.contain .row .column1rejection .h6,.contain .row .column2rejection .h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(29, 53, 87, 1);
+
+}

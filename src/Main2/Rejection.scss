@@ -1,0 +1,24 @@
+.contain {
+  .row {
+
+    .column1rejection,
+    .column2rejection {
+      // border: 2px solid black;
+      background: #FFFFFF;
+
+      box-shadow: 0px 2px 6px 4px #32475C05;
+
+      box-shadow: 0px 2px 9px 0px #32475C0A;
+
+      box-shadow: 0px 4px 4px 0px #00000040;
+
+      border-radius: 16px;
+
+      .h6 {
+        font-size: 14px;
+        font-weight: 700;
+        color: rgba(29, 53, 87, 1);
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.contain .row .column1budget,.contain .row .column2budget{
+    border: 2px solid black;
+    border-radius: 8px;
+}
+.contain .row .column1budget .h6,.contain .row .column2budget .h6{
+    font-size: 14px;
+    font-weight: 700;
+    color: rgba(29, 53, 87, 1);
+
+}

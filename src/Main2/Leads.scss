@@ -1,0 +1,56 @@
+.container {
+    .row {
+      .column1, .column2, .column3, .column4 {
+        border: 1px solid #DDE1E6;
+        border-radius: 8px;
+        
+        .h6 {
+          font-size: 16px;
+          font-weight: 400;
+          color: rgba(0, 0, 0, 0.4);
+        }
+        
+        .h4 {
+          font-size: 25px;
+          font-weight: 700;
+          color: rgba(29, 53, 87, 1);
+        }
+        
+        .Square {
+          position: relative;
+          margin-top: -2.2rem;
+          font-weight: 400;
+          font-size: 14px;
+          justify-content: center;
+          border-radius: 4px;
+          width: 63px;
+          height: 24px;
+        }
+      }
+      
+      .column1 {
+        .Square {
+          @extend .Square;
+          background-color: #E0F0E4;
+          color: #377E36;
+        }
+      }
+      
+      .column2 {
+        .Square {
+          @extend .Square;
+          background-color: #FEECEB;
+          color: #B12F30;
+        }
+      }
+      
+      .column3 {
+        .Square {
+          @extend .Square;
+          background-color: #E0F0E4;
+          color: #377E36;
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,30 @@
+.table {
+    border-radius: 8px;
+    background: linear-gradient(0deg, #F2F2F2, #F2F2F2),
+                linear-gradient(0deg, rgba(219, 233, 255, 0.25), rgba(219, 233, 255, 0.25));
+    border: 1px solid #F2F2F2;
+    
+    .head1 .tr1 .th1 {
+      background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+                  linear-gradient(0deg, rgba(185, 216, 249, 0.45), rgba(185, 216, 249, 0.45));
+    }
+    
+    .head2 .tr2 .th2 {
+    //   background: #2187f373;
+    //   background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+    //               linear-gradient(0deg, rgba(185, 216, 249, 0.45), rgba(185, 216, 249, 0.45));
+    background: #B9D8F973;
+
+    }
+    
+    tbody tr:nth-child(odd)td{
+      background-color:  #E6EDFF;
+    }
+    
+    tbody tr:nth-child(even)td{
+        background: linear-gradient(0deg, #E6EDFF, #E6EDFF),
+        linear-gradient(0deg, #FFFFFF, #FFFFFF);
+        
+    }
+  }
+  

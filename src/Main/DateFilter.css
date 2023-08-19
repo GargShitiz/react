@@ -1,0 +1,12 @@
+.container .row .col .From .fromdate{
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  
+  
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: white;
+    color: rgb(162, 162, 163);
+}
